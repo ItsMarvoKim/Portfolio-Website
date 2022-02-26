@@ -73,3 +73,7 @@
     text-align: center;
     margin: 40px 0px;
 }
+.btn{
+    padding: 10px 35px;
+    background-color: transparent;
+}
