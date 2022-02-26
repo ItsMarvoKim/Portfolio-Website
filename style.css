@@ -39,6 +39,7 @@
 #Home{
     display: flex;
     flex-direction: column;
+    background-color:rgba(0, 0, 0, 0.5)
 }
 #Home::before{
     content: "";
@@ -49,5 +50,5 @@
     height: 900px;
     width: 100%;
     z-index: -1;
-    
+    opacity: .8;
 }
