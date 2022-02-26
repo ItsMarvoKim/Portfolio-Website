@@ -39,8 +39,10 @@
 #Home{
     height: 840px;
     display: flex;
+    justify-content: center;
     flex-direction: column;
     background-color:rgba(0, 0, 0, 0.5)
+    
     
 }
 #Home::before{
