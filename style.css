@@ -24,5 +24,6 @@
     font-weight: bold;
 }
 .navbar ul li a{
-    text-decoration: solid;
+    text-decoration: none;
+    color: white;
 }
