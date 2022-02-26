@@ -38,4 +38,14 @@
 /*Home Section*/
 #Home{
     display: flex;
+    flex-direction: column;
+}
+#Home::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url('1566499659196.jpg') no-repeat center/cover;
+    height: 900px;
+    width: 100%;
 }
