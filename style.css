@@ -48,4 +48,6 @@
     background: url('1566499659196.jpg') no-repeat center/cover;
     height: 900px;
     width: 100%;
+    z-index: -1;
+    
 }
