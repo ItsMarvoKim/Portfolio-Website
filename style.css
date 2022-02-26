@@ -1,0 +1,25 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Navbar */
+.navbar{
+    position: sticky;
+    top: 0;
+    background-color: rgba(red, green, blue, alpha);
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 0px;
+}
+.navbar ul li{
+    font-family: Helvetica;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
