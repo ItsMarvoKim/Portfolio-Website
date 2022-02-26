@@ -36,3 +36,6 @@
 }
 
 /*Home Section*/
+#Home{
+    display: flex;
+}
