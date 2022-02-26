@@ -76,4 +76,5 @@
 .btn{
     padding: 10px 35px;
     background-color: transparent;
+    border: 1px solid white;
 }
