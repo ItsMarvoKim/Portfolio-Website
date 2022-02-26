@@ -41,6 +41,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
     flex-direction: column;
     background-color:rgba(0, 0, 0, 0.5)
     
