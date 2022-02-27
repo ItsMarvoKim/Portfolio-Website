@@ -101,7 +101,6 @@
 #pic img{
     width: 575px;
     height: 400px;
-
 }
 #intro{
     display: flex; 
@@ -115,3 +114,17 @@
 }
 
 /* Portfolio Section */
+#portfolio{
+    display: flex;
+    flex-direction: column;
+
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.gallery img{
+    width: 360px;
+    height: 240px;
+}
