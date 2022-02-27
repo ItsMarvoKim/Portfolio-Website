@@ -134,3 +134,10 @@
     height: 240px;
     margin: 10px;
 }
+
+/* Services Section */
+#Services{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
