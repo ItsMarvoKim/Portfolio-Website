@@ -114,17 +114,23 @@
 }
 
 /* Portfolio Section */
-#portfolio{
+#Portfolio{
+    background-color: rgba(0, 0, 0, 0.9);
     display: flex;
     flex-direction: column;
+    color: white;
+    align-items: center;
+    padding: 20px;
 
 }
 .gallery{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    box-sizing: border-box;
 }
 .gallery img{
     width: 360px;
     height: 240px;
+    margin: 10px;
 }
