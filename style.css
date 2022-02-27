@@ -62,6 +62,11 @@ html{
 .main{
     display: flex;
     flex-direction: column;
+
+
+
+
+    
     /*border: 1px solid white; */
     align-items: center;
     position: absolute;
