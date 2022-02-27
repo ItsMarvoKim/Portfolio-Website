@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 html{
     scroll-behavior: smooth;
@@ -29,9 +30,6 @@ html{
 .navbar ul li a{
     text-decoration: none;
     color: white;
-
-
-    
     padding: 8px 25px;
     transition: all .5s ease;
 }
