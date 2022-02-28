@@ -13,7 +13,6 @@ will include a list of Github Projects and information about me. This page can b
 - Css
 - Bootsrap
 - Git
-- JavaScript
 - Markdown (README.MD)
 ## license
 This software is licenced under the MIT license
