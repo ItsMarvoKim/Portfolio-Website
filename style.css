@@ -9,7 +9,7 @@ html{
 
 /*Navbar */
 .navbar{
-    position: sticky;
+    position:relative;
     top: 0;
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
